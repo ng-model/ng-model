@@ -1,5 +1,12 @@
+<div align="center">
+  
+
+[![life as a developer.](https://raw.githubusercontent.com/ng-model/ng-model/master/workingHard.gif)](https://manojmaduri.info)
+
 ### Hi there 👋
 
+<p>This is Manoj, Out of many things I love, coding for <b>Angular ⚡</b> has become my obsession. </p>
+<p>- 🔭 I’m currently looking for new opportunities in Angular . . .</p>
 <!--
 **ng-model/ng-model** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>

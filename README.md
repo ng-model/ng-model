@@ -5,6 +5,7 @@
 
 ### Hi there 👋
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ng-model" alt="ngmodel" /> </p>
 <p>This is Manoj, Out of many things I love, coding for <b>Angular ⚡</b> has become my obsession. </p>
 <p>- 🔭 I’m currently looking for new opportunities in Angular . . .</p>
 <!--
